@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a second-year Civil Engineer student specializing in Computer Science from Chile, passionate about learning new technologies and expanding my knowledge every day. I have experience with Python and a foundational knowledge of Java with Object-Oriented Programming (OOP) principles.
+I'm a second-year Civil Engineer student specializing in Computer Science from Chile, passionate about learning new technologies and expanding my knowledge every day. I have experience with Python and a foundational knowledge of Java with Object-Oriented Programming (OOP) principles.
 
 I value collaboration, adaptability, and continuous learning, and I am always eager to take on challenges that help me grow both academically and personally. My goal is to combine my technical skills with a strong work ethic to create solutions that make a positive impact.
 
