@@ -16,6 +16,13 @@ I value collaboration, adaptability, and continuous learning, and I am always ea
 
 </div>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  
+  <img src="https://streak-stats.demolab.com/?user=churrasquita&theme=dark&hide_border=true" alt="churrasquita's streak stats" height="165" />
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
