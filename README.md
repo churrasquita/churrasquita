@@ -12,6 +12,9 @@
 - I value collaboration, adaptability, and continuous learning, and I am always eager to take on challenges that help me grow both academically and personally. My goal is to combine my technical skills with a strong work ethic to create solutions that make a positive impact.
 - I enjoy watching films, anime, painting, music, and gym.
 
+<p align="center">
+  <a><img src="./assets/header.png" alt="bg" width="900"/></a>
+</p>
  
 ## ✶⋆.˚ Tech Stack:
 
