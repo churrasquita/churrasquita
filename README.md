@@ -6,12 +6,15 @@
 
 ## ˚₊‧꒰ა About me ໒꒱ ‧₊˚
 
-I'm from Chile, passionate about learning new technologies and expanding my knowledge every day.
+- I'm from Chile, passionate about learning new technologies and expanding my knowledge every day.
+- I'm 21 years old
+- I'm a third-year Civil Engineering student specializing in Computing and Informatics.
+- I value collaboration, adaptability, and continuous learning, and I am always eager to take on challenges that help me grow both academically and personally. My goal is to combine my technical skills with a strong work ethic to create solutions that make a positive impact.
+- I enjoy watching films, anime, painting, music, and gym.
 
-I value collaboration, adaptability, and continuous learning, and I am always eager to take on challenges that help me grow both academically and personally. My goal is to combine my technical skills with a strong work ethic to create solutions that make a positive impact.
-
-🍙 I enjoy watching films, painting, music, and gym.
+ 
 ## ✶⋆.˚ Tech Stack:
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white&labelColor=239120) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=E34F26) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=ED8B00) ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=323330) ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white&labelColor=3670A0) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&labelColor=007ACC) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white&labelColor=000000) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&labelColor=E0234E) ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB&labelColor=20232a) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&labelColor=316192) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=Canva&logoColor=white&labelColor=00C4CC)![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white&labelColor=000000) ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white&labelColor=0db7ed) ![Jira](https://img.shields.io/badge/-Jira-0A0FFF?style=flat&logo=jira&logoColor=white&labelColor=0A0FFF) ![Trello](https://img.shields.io/badge/-Trello-026AA7?style=flat&logo=Trello&logoColor=white&labelColor=026AA7)
 
 </div>
